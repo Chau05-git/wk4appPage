@@ -77,6 +77,7 @@ const App = () => {
                     fontSize: '1.5rem',
                     fontWeight: 'bold',
                     marginBottom: '20px',
+                    color: 'blue'
                 }}
             >
                 TODO LIST
