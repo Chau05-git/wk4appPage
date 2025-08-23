@@ -1,7 +1,7 @@
 'use client'
 import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from '../../Components/Navbar';
+import Navbar from '../Components/Navbar';
 
 const Createblog = () => {
     const [author, setAuthor] = useState('');
